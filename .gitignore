@@ -1,0 +1,7 @@
+.env
+.secrets
+*.secret
+DEPLOY.md
+letsencrypt
+acme.json
+docker-compose.yml

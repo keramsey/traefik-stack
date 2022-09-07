@@ -1,0 +1,6 @@
+.git
+.secrets
+*.secret
+letsencrypt
+acme.json
+docker-compose.yml
