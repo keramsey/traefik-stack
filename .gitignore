@@ -1,6 +1,7 @@
 .env
 .secrets
 *.secret
+README.txt
 DEPLOY.md
 letsencrypt
 acme.json
